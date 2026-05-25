@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_dark">#0F0C29</color>
+    <color name="purple_mid">#1E1E3F</color>
+    <color name="purple_accent">#9C77E0</color>
+    <color name="blue_accent">#4A90D9</color>
+    <color name="white">#FFFFFF</color>
+</resources>
